@@ -1,0 +1,9 @@
+.hideForm{
+    height: 0;
+    overflow: hidden;
+}
+
+.btnActive{
+    color:white;
+    background-color:#8035FB
+}
